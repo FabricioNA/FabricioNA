@@ -30,4 +30,8 @@
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
 
+  <div>
+  <a href="https://github.com/FabricioNA">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabricioNA&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </div>
 readme-profile-template by: Akash Chowrasia
