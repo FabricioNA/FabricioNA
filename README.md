@@ -1,4 +1,4 @@
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="1px">, Eu sou Fabrício Aleixo</h1>
+<h1 align="center">Olá, Eu sou Fabrício Aleixo</h1>
 <h3 align="center">Estudante de Engenharia da Computação</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/fabricio-nascimento-aleixo-2a509b220/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="aksia" height="40" width="50" /></a>
