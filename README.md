@@ -19,10 +19,7 @@
  
 <img width="30px">&nbsp;***Linguagens & Ferramentas que uso e trabalho...***
 <p align="left">
-  
-  <code> <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
-  <code> <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> </code>
-  <code> <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> </code>
+ 
   <code> <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
   <code> <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
   <code> <img height="60" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/168722916/original/b247a83f745b8b5db8c37e5eaddaedb4175ab6c6/develop-and-support-all-your-ricefw-in-sap-abap.jpg"> </code>
