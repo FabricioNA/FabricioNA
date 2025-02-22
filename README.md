@@ -1,5 +1,5 @@
 <h1 align="center">Olá, Eu sou Fabrício Aleixo</h1>
-<h3 align="center">Estudante de Engenharia da Computação</h3>
+<h3 align="center">Formado em Engenharia da Computação</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/fabricionascimentoaleixo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" alt="aksia" height="40" width="50" /></a>
  <a href = "mailto: fabricioaleixo12@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="40" width="50" /></a>
@@ -10,8 +10,8 @@
 
 <img width="30px">&nbsp;***Fatos pessoais:***
 
-✔ Atualmente estudo **Engenharia da Computação** na **Multivix Vitória**<br>
-✔ Aprendendo atualmente: **C#**<br>
+✔ Formado em **Engenharia da Computação** na **Multivix Vitória**<br>
+✔ Aprendendo atualmente: **Cypress**<br>
 ✔ Procuro colaborar com qualquer **Contribuição Open - Source**<br>
 ✔ Me contate vamos codar juntos!😉<br>
  
@@ -25,6 +25,10 @@
   <code> <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg"> </code>
   <code> <img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"> </code>
   <code> <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"> </code>
+  <code> <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"> </code>
+  <code> <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"> </code>
+  <code> <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"> </code>
+  <code> <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"> </code>
 
   <div>
   <a href="https://github.com/FabricioNA">
